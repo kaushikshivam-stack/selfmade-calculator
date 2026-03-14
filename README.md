@@ -28,7 +28,7 @@ While building this project I learned:
 - Designing responsive layouts
 
 ## 🌐 Live Demo
-
+https://kaushikshivam-stack.github.io/selfmade-calculator/
 
 ## 👨‍💻 Author
 
