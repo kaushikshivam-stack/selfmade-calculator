@@ -27,13 +27,19 @@ While building this project I learned:
 - Handling keyboard input
 - Designing responsive layouts
 
+## 📸 Project Screenshot
+
+### Dark Mode
+![Calculator Screenshot](calculator-screenshot1.png)
+
+### Light Mode
+![Calculator Screenshot](calculator-screenshot2.png)
+
 ## 🌐 Live Demo
 https://kaushikshivam-stack.github.io/selfmade-calculator/
 
 ## 👨‍💻 Author
 
-Shivam Kumar
-
+Shivam K@ushik
 ---
-
 ⭐ If you like this project, feel free to star the repository.
